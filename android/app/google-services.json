@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "619052767581",
+    "firebase_url": "https://haber-uygulamasi-ba94f.firebaseio.com",
+    "project_id": "haber-uygulamasi-ba94f",
+    "storage_bucket": "haber-uygulamasi-ba94f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619052767581:android:78e064de3872c10c7430b4",
+        "android_client_info": {
+          "package_name": "com.wordpress.flutter.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619052767581-ht9tht8r4sest2cg90cb04merb040nl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsZIOB0wUno0YiJYxxveNW_fd-4zjggcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619052767581-ht9tht8r4sest2cg90cb04merb040nl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
